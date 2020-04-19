@@ -1,0 +1,9 @@
+docker run --itd --name tejc3q3 -p 80:80 dockerashu/ckad:v2
+7 docker keyword
+Hello Green Docker
+Hello Green Docker
+Hello Green Docker
+Hello Green Docker
+Hello Green Docker
+Hello Green Docker
+Hello Green Docker
