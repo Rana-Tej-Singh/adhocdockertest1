@@ -1,0 +1,4 @@
+docker run -it --name tejc1q1 alpine:tej date +%T
+
+13:14:55
+13:17:08
