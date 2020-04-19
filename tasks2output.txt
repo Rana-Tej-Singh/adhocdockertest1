@@ -1,0 +1,2 @@
+171.79.155.118 - - [19/Apr/2020:13:35:34 +0000] "GET / HTTP/1.1" 200 363 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
+171.79.155.118 - - [19/Apr/2020:13:35:34 +0000] "GET /docker.jpg HTTP/1.1" 200 54156 "http://52.204.127.145:9595/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
